@@ -1,0 +1,51 @@
+
+        *{margin: 0%;
+            padding: 0%;}
+    
+            .img{
+                background-size: cover;
+                width:100%;
+                height:500px;
+                background-image: url(./powt.jpg);
+                
+            }
+            .list{float: right;}
+    
+            .list ul li {list-style-type: none;
+                 float:left;
+                 margin-right: 25px;}
+    
+            .list ul li a{
+             color: white;
+            font-size: x-large;
+            float: left;
+        }
+        .list ul li a:hover{
+             color: rgb(173, 225, 17);}
+    
+              .web{color:white;
+                font-family:cursive;
+            font-size:60px;
+              text-align: center;
+              padding-top: 100px;
+              }
+              .test{color:white;
+            
+            font-size:20px;
+              text-align: center;
+              }
+              .view{color: rgb(155, 109, 54);
+               font-size:20px;
+            height: 30px;
+        border-radius: 10px;}
+
+        .start img{height: 200px;
+        width:400px ; padding-top: 50px;
+         margin-left: 15px;
+        padding-right: 0px;
+          float:left;
+        padding-right: 0px;
+        }
+            
+             
+            
